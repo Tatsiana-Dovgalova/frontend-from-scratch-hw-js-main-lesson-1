@@ -23,6 +23,6 @@ function doubleEachCharacter(str) {
 
   let result = arr2.join('');
   return result
-  
 }
+
 console.log(doubleEachCharacter('hello'));
